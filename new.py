@@ -1,0 +1,1 @@
+print("Gained base knowledge about Git")
